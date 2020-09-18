@@ -12,3 +12,8 @@ for each in numb:
 for i in list(range(0,5)):
 	print(i,end = ' ')
 print('\n')
+
+def my_func():
+	print("shazi")
+
+	
